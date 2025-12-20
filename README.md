@@ -1,5 +1,5 @@
 
-![profile](img/https://i.ibb.co.com/Ng4wwqR8/Chat-GPT-Image-20-Des-2025-10-07-23.png) 
+![Header](https://i.ibb.co/Ng4wwqR8/Chat-GPT-Image-20-Des-2025-10-07-23.png)
 <p align="left">
   <img src="https://i.ibb.co.com/Ng4wwqR8/Chat-GPT-Image-20-Des-2025-10-07-23.png" alt="Header" />
 </p>
