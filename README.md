@@ -1,7 +1,7 @@
 
 ![profile](img/header.png) (https://i.ibb.co.com/RGFpJYPr/Screenshot-2025-12-20-095936.png)
 <p align="left">
-  <img src="https://i.ibb.co.com/RGFpJYPr/Screenshot-2025-12-20-095936.png" alt="Header" />
+  <img src="https://i.ibb.co.com/2TfZMyB/Chat-GPT-Image-20-Des-2025-10-05-34.png" alt="Header" />
 </p>
 
 
