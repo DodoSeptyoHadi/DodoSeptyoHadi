@@ -1,4 +1,5 @@
-<p align="center">
+<p align="left
+">
   <img src="https://i.ibb.co.com/1J4xptRw/Screenshot-2025-12-20-103029-removebg-preview.png" alt="Dodo Septyo Hadi Header" width="600" />
 </p>
 <!--
