@@ -1,5 +1,9 @@
 
 ![profile](img/header.png)
+<p align="center">
+  <img src="https://i.ibb.co.com/RGFpJYPr/Screenshot-2025-12-20-095936.png" alt="Header" />
+</p>
+
 
 <!--
 **DodoSeptyoHadi/DodoSeptyoHadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
