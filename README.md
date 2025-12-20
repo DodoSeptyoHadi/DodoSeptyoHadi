@@ -19,6 +19,8 @@
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DodoSeptyoHadi&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=DodoSeptyoHadi&theme=synthwave&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DodoSeptyoHadi&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <img align="left" height="150" src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png"  />
 
