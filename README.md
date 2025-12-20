@@ -34,7 +34,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DodoSeptyoHadi/DodoSeptyoHadi/output/pacman-contribution-graph.svg">
 </picture>
 <br>
- <img src="https://raw.githubusercontent.com/DodoSeptyoHadi/DodoSeptyoHadi/output/snake.svg" alt="Snake animation"/ width="1000">
+ <img src="https://raw.githubusercontent.com/DodoSeptyoHadi/DodoSeptyoHadi/output/snake.svg" alt="Snake animation"/>
    
 ###
 
