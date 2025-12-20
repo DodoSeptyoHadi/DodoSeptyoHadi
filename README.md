@@ -1,7 +1,7 @@
 
 ![profile](img/https://i.ibb.co.com/Ng4wwqR8/Chat-GPT-Image-20-Des-2025-10-07-23.png) 
 <p align="left">
-  <img src="https://i.ibb.co.com/2TfZMyB/Chat-GPT-Image-20-Des-2025-10-05-34.png" alt="Header" />
+  <img src="https://i.ibb.co.com/Ng4wwqR8/Chat-GPT-Image-20-Des-2025-10-07-23.png" alt="Header" />
 </p>
 
 
