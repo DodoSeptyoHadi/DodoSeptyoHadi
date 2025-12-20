@@ -1,6 +1,6 @@
 <p align="left
 ">
-  <img src="https://i.ibb.co.com/1J4xptRw/Screenshot-2025-12-20-103029-removebg-preview.png" alt="Dodo Septyo Hadi Header" width="450" />
+  <img src="https://i.ibb.co.com/v4Tvy5h4/Screenshot-2025-12-20-163642.png" alt="Dodo Septyo Hadi Header" width="400" />
 </p>
 <!--
 **DodoSeptyoHadi/DodoSeptyoHadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,7 +8,7 @@
 
 ### 💫 About Me:
 <b>Hello! iam Dodo Septyo Hadi<b><br>
-<p>Siswa aktif SMK Negeri 2 Kota Mojokerto Jurusan Rekayasa Perangkat Lunak (RPL).<br><br>Saya memiliki minat dan passion yang besar di dunia coding, khususnya dalam mempelajari bahasa pemrograman dan logika pemrograman. Melalui pendidikan ini, saya berkomitmen untuk terus mengembangkan kemampuan, memperdalam pemahaman teknologi, dan membangun fondasi yang kuat demi mencapai visi jangka panjang sebagai Web Developer yang handal, kreatif, dan profesional. Experienced to be part of Student In SMK Negeri 2 Kota Mojokerto. Jika butuh bantuan hubungi aku!<br><br>Junior Web Developer | Junior UI/UX Designer<p></p>
+<p>Siswa aktif SMK Negeri 2 Kota Mojokerto Jurusan Rekayasa Perangkat Lunak (RPL).<br><br>Saya memiliki minat dan passion yang besar di dunia coding, khususnya dalam mempelajari bahasa pemrograman dan logika pemrograman. Melalui pendidikan ini, saya berkomitmen untuk terus mengembangkan kemampuan, memperdalam pemahaman teknologi, dan membangun fondasi yang kuat demi mencapai visi jangka panjang sebagai Web Developer yang handal, kreatif, dan profesional. Experienced to be part of Student In SMK Negeri 2 Kota Mojokerto. Jika butuh bantuan hubungi aku!<br><br>Junior Front-End Developer | Junior UI/UX Designer<p></p>
 
 
 ### 🌐 Socials:
