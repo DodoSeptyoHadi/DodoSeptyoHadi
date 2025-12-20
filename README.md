@@ -1,6 +1,6 @@
 <p align="left
 ">
-  <img src="https://i.ibb.co.com/1J4xptRw/Screenshot-2025-12-20-103029-removebg-preview.png" alt="Dodo Septyo Hadi Header" width="600" />
+  <img src="https://i.ibb.co.com/1J4xptRw/Screenshot-2025-12-20-103029-removebg-preview.png" alt="Dodo Septyo Hadi Header" width="450" />
 </p>
 <!--
 **DodoSeptyoHadi/DodoSeptyoHadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
