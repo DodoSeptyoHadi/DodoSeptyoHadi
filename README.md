@@ -1,6 +1,6 @@
 
-![profile](img/header.png)
-<p align="center">
+![profile](img/header.png) (https://i.ibb.co.com/RGFpJYPr/Screenshot-2025-12-20-095936.png)
+<p align="left">
   <img src="https://i.ibb.co.com/RGFpJYPr/Screenshot-2025-12-20-095936.png" alt="Header" />
 </p>
 
