@@ -44,6 +44,10 @@ dan menunjukkan kontribusi saya di dunia teknologi.
 <br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DodoSeptyoHadi&theme=synthwave&layout=compact&hide_border=true)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=DodoSeptyoHadi&limit=5&theme=synthwave&combine_all_yearly_contributions=true)
+
+
 ---
 <img align="left" height="150" src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" />
 
