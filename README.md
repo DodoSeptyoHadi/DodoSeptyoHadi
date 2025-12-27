@@ -41,28 +41,28 @@ serta menunjukkan perkembangan dan kontribusiku di bidang teknologi.
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=DodoSeptyoHadi&theme=synthwave&hide_border=true)
-![](https://nirzak-streak-stats.vercel.app/?user=DodoSeptyoHadi&theme=synthwave&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DodoSeptyoHadi&theme=synthwave&layout=compact&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=Dodoo21&theme=synthwave&hide_border=true)
+![](https://nirzak-streak-stats.vercel.app/?user=Dodoo21&theme=synthwave&hide_border=true)
+
 
 ## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DodoSeptyoHadi&limit=5&theme=synthwave&combine_all_yearly_contributions=true)
-
+![](https://github-contributor-stats.vercel.app/api?username=Dodoo21&limit=5&theme=synthwave&combine_all_yearly_contributions=true)
 
 ---
 
 <img align="left" height="150" 
 src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" />
 
-<img src="https://raw.githubusercontent.com/DodoSeptyoHadi/DodoSeptyoHadi/output/snake.svg" 
+<img src="https://raw.githubusercontent.com/Dodoo21/Dodoo21/output/snake.svg" 
 alt="Snake animation" />
 
 ---
 
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=DodoSeptyoHadi&left_color=darkslateblue" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Dodoo21&left_color=darkslateblue" />
 </div>
 
 🎶 **Now Playing:**  
 [NOAH – Separuh Aku](https://open.spotify.com/track/4sJmv194lQKWjytpaxH1Vj)
+
 
