@@ -1,4 +1,4 @@
-## 💫 Tentang Aku
+## 💫  About Me
 <b>Haii 👋 | Aku Dodo Septyo Hadi</b>
 
 <p>
