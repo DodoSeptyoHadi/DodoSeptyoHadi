@@ -1,4 +1,6 @@
-## 💫  About Me
+<div align="center">
+
+## 💫 About Me
 <b>Haii 👋 | Aku Dodo Septyo Hadi</b>
 
 <p>
@@ -9,7 +11,7 @@ Aku percaya motto <b>belajar tanpa akhir</b> akan selalu membuahkan hasil yang b
 GitHub ini menjadi tempat aku belajar dunia pemrograman, membangun proyek,
 serta menunjukkan perkembangan dan kontribusiku di bidang teknologi.
 <br><br>
-<b>Junior Front-End Developer - Junior UI/UX Designer</b>
+<b>Junior Front-End Developer · Junior UI/UX Designer</b>
 </p>
 
 ---
@@ -30,38 +32,45 @@ serta menunjukkan perkembangan dan kontribusiku di bidang teknologi.
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?logo=figma&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue)
+![Framer](https://img.shields.io/badge/Framer-black?logo=framer&logoColor=blue)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?logo=vercel&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?logo=netlify&logoColor=00C7B7)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?logo=WordPress&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Dodoo21&theme=synthwave&hide_border=true)
-![](https://nirzak-streak-stats.vercel.app/?user=Dodoo21&theme=synthwave&hide_border=true)
-
-
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Dodoo21&limit=5&theme=synthwave&combine_all_yearly_contributions=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Dodoo21&theme=synthwave&hide_border=true" />
+<br><br>
+<img src="https://nirzak-streak-stats.vercel.app/?user=Dodoo21&theme=synthwave&hide_border=true" />
 
 ---
 
-<img align="left" height="150" 
+## 🔝 Top Contributed Repo
+<img src="https://github-contributor-stats.vercel.app/api?username=Dodoo21&limit=5&theme=synthwave&combine_all_yearly_contributions=true" />
+
+---
+
+<img height="150" 
 src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" />
+
+<br><br>
 
 <img src="https://raw.githubusercontent.com/Dodoo21/Dodoo21/output/snake.svg" 
 alt="Snake animation" />
 
 ---
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Dodoo21&left_color=darkslateblue" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Dodoo21&left_color=darkslateblue" />
+
+---
+
+🎶 <b>Now Playing</b>  
+<a href="https://open.spotify.com/track/4sJmv194lQKWjytpaxH1Vj">
+NOAH – Separuh Aku
+</a>
+
 </div>
-
-🎶 **Now Playing:**  
-[NOAH – Separuh Aku](https://open.spotify.com/track/4sJmv194lQKWjytpaxH1Vj)
-
 
