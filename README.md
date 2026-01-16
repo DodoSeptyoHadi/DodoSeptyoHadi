@@ -1,4 +1,4 @@
-<div align="center">
+
 
 ## 💫 About Me
 <b>Haii 👋 | Aku Dodo Septyo Hadi</b>
@@ -17,7 +17,7 @@ serta menunjukkan perkembangan dan kontribusiku di bidang teknologi.
 ---
 
 ## 🌐 Social Media
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dodoseptyo.hd)
+[![Instagram](https://img.shields.io/badge/Instagrm-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dodoseptyo.hd)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@dodoseptyo.hd)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:doflxzx@gmail.com)
 
@@ -71,6 +71,4 @@ alt="Snake animation" />
 <a href="https://open.spotify.com/track/4sJmv194lQKWjytpaxH1Vj">
 NOAH – Separuh Aku
 </a>
-
-</div>
 
